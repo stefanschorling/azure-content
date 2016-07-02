@@ -28,9 +28,9 @@ ARM templates deploy and provision all of the resources for your application in 
 
   	[Download the Windows CLI](http://aka.ms/azstack-windows-cli)
 
-  	[Download the Mac CLI](http://aka.ms/azstack-linux-cli)
+  	[Download the Mac CLI](http://aka.ms/azstack-mac-cli)
 
-  	[Download the Linux CLI](http://aka.ms/azstack-mac-cli)
+  	[Download the Linux CLI](http://aka.ms/azstack-linux-cli)
 
 
   	If you’re on a Mac or Linux machine, you can also get the CLI by using the command `npm install -g azure-cli@0.9.11`</br>
